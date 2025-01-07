@@ -1,0 +1,16 @@
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+label, input, textarea, button {
+    margin: 10px 0;
+}
+button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}

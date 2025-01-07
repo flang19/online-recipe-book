@@ -1,0 +1,10 @@
+header, footer {
+    background-color: #6a1b9a;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+main {
+    padding: 20px;
+    font-family: Georgia, serif;
+}
