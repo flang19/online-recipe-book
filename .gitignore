@@ -1,0 +1,11 @@
+# SQLite File
+db.sqlite3
+
+# Environment Files
+.env
+.venv
+venv
+
+# IDE setup files
+.vscode
+__pycache__/
